@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "rainbow:rainbow_world_portal_ew"
+    },
+    "axis=x": {
+      "model": "rainbow:rainbow_world_portal_ns"
+    },
+    "inventory": {
+      "model": "rainbow:rainbow_world_portal_ns"
+    }
+  }
+}

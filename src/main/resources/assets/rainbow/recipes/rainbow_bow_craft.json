@@ -1,0 +1,30 @@
+{
+  "group": "rainbow",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "rainbow:rainbow"
+    },
+    "2": {
+      "item": "rainbow:rainbow"
+    },
+    "4": {
+      "item": "minecraft:iron_nugget"
+    },
+    "6": {
+      "item": "rainbow:rainbow"
+    },
+    "8": {
+      "item": "rainbow:rainbow"
+    }
+  },
+  "result": {
+    "item": "rainbow:rainbow_bow",
+    "count": 1
+  }
+}

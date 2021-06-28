@@ -1,0 +1,310 @@
+{
+  "id_map": {
+    "ENTITY": 1,
+    "DIMENSION": 1
+  },
+  "mod_elements": [
+    {
+      "name": "Rainbow",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow"
+    },
+    {
+      "name": "RainbowOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_ore"
+    },
+    {
+      "name": "RainbowBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_block"
+    },
+    {
+      "name": "RainbowOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_ore_block_recipe"
+    },
+    {
+      "name": "RainbowBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_block_ore_recipe"
+    },
+    {
+      "name": "RainbowOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_ore_smelting"
+    },
+    {
+      "name": "RainbowGrass",
+      "type": "plant",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_grass"
+    },
+    {
+      "name": "RainbowToolsPickaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_pickaxe"
+    },
+    {
+      "name": "RainbowToolsAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_axe"
+    },
+    {
+      "name": "RainbowToolsSword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_sword"
+    },
+    {
+      "name": "RainbowToolsShovel",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_shovel"
+    },
+    {
+      "name": "RainbowToolsHoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_hoe"
+    },
+    {
+      "name": "RainbowToolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_pickaxe_recipe"
+    },
+    {
+      "name": "RainbowToolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_axe_recipe"
+    },
+    {
+      "name": "RainbowToolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_sword_recipe"
+    },
+    {
+      "name": "RainbowToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_shovel_recipe"
+    },
+    {
+      "name": "RainbowToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_tools_hoe_recipe"
+    },
+    {
+      "name": "RainbowBow",
+      "type": "gun",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      },
+      "registry_name": "rainbow_bow"
+    },
+    {
+      "name": "RainbowBowCraft",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_bow_craft"
+    },
+    {
+      "name": "RainbowBiome",
+      "type": "biome",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_biome"
+    },
+    {
+      "name": "RainbowWorld",
+      "type": "dimension",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      },
+      "registry_name": "rainbow_world",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "RainbowLighter",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_lighter"
+    },
+    {
+      "name": "RainbowClothesArmor",
+      "type": "armor",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_clothes_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RainbowClothesArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_clothes_armor_helmet_recipe"
+    },
+    {
+      "name": "RainbowClothesArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_clothes_armor_body_recipe"
+    },
+    {
+      "name": "RainbowClothesArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_clothes_armor_leggings_recipe"
+    },
+    {
+      "name": "RainbowClothesArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_clothes_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.rainbow_bow.name": "Rainbow magic",
+      "item.rainbow_tools_hoe.name": "Rainbow Hoe",
+      "item.rainbow_tools_axe.name": "Rainbow Axe",
+      "item.rainbow_clothes_armorlegs.name": "Rainbow Leggings",
+      "tile.rainbow_grass.name": "Rainbow Grass",
+      "item.rainbow_clothes_armorbody.name": "Rainbow Chestplate",
+      "item.rainbow_tools_shovel.name": "Rainbow Shovel",
+      "item.rainbow_tools_pickaxe.name": "Rainbow Pickaxe",
+      "tile.rainbow_block.name": "Block of Rainbow",
+      "tile.rainbow_ore.name": "Rainbow Ore",
+      "item.rainbow.name": "Rainbow",
+      "item.rainbow_clothes_armorboots.name": "Rainbow Boots",
+      "item.rainbow_world.name": "Rainbow World Portal Igniter",
+      "item.rainbow_clothes_armorhelmet.name": "Rainbow Helmet",
+      "item.rainbow_tools_sword.name": "Rainbow Sword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rainbow",
+    "modName": "rainbow",
+    "version": "1.0.0",
+    "description": "Adds rainbow based items to the game!",
+    "author": "cooperlynn, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.rainbow",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

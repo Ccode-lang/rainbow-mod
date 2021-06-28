@@ -1,0 +1,29 @@
+{
+  "group": "rainbow",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "rainbow:rainbow"
+    },
+    "1": {
+      "item": "rainbow:rainbow"
+    },
+    "2": {
+      "item": "rainbow:rainbow"
+    },
+    "3": {
+      "item": "rainbow:rainbow"
+    },
+    "5": {
+      "item": "rainbow:rainbow"
+    }
+  },
+  "result": {
+    "item": "rainbow:rainbow_clothes_armorhelmet",
+    "count": 1
+  }
+}

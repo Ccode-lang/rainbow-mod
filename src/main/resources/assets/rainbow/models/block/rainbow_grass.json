@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "rainbow:blocks/rainbowgrass",
+    "particle": "rainbow:blocks/rainbowgrass"
+  }
+}

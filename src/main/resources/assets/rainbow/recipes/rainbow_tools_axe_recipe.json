@@ -1,0 +1,30 @@
+{
+  "group": "rainbow",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "rainbow:rainbow"
+    },
+    "1": {
+      "item": "rainbow:rainbow"
+    },
+    "2": {
+      "item": "rainbow:rainbow"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "rainbow:rainbow_tools_axe",
+    "count": 1
+  }
+}

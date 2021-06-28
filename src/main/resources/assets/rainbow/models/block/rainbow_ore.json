@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rainbow:blocks/rainbow_ore",
+    "particle": "rainbow:blocks/rainbow_ore"
+  }
+}

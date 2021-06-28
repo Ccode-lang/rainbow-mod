@@ -1,0 +1,13 @@
+{
+  "group": "rainbow",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rainbow:rainbow_block"
+    }
+  ],
+  "result": {
+    "item": "rainbow:rainbow",
+    "count": 9
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "rainbow",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "rainbow:rainbow"
+    },
+    "2": {
+      "item": "rainbow:rainbow"
+    },
+    "3": {
+      "item": "rainbow:rainbow"
+    },
+    "4": {
+      "item": "rainbow:rainbow"
+    },
+    "5": {
+      "item": "rainbow:rainbow"
+    },
+    "6": {
+      "item": "rainbow:rainbow"
+    },
+    "7": {
+      "item": "rainbow:rainbow"
+    },
+    "8": {
+      "item": "rainbow:rainbow"
+    }
+  },
+  "result": {
+    "item": "rainbow:rainbow_clothes_armorbody",
+    "count": 1
+  }
+}
